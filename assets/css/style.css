@@ -3,7 +3,8 @@ html, body {
     height: 100%;
     margin: 0;
     padding: 0;
-    background-image:  url('./images/Festive-Background.jpg');
+    background-image:  url("https://yolandamac.triviaGame.github.io/images/Festive-Background.jpg");
+    
 }
 .container-fluid {
     display: table;
